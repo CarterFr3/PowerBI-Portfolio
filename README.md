@@ -16,4 +16,5 @@ This Power BI project analyzes a fashion & beauty supply chain dataset. The goal
 - Data storytelling & visualization
 
 ## Key Insights
-- (Fill this in after you finish the dashboard)
+- ..........
+  
