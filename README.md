@@ -16,6 +16,10 @@ Each project includes:
 **Focus:** Cost analysis, supplier performance, lead times, and profitability  
 **Skills:** Star schema modeling, DAX, Power Query, dashboard design
 
+### 2. [Profit & Loss Dashboard](./Profit-Loss-Dashboard)
+**Focus:** Revenue, COGS, gross profit, expenses, and budget vs actual analysis  
+**Skills:** Financial modeling, DAX, budget variance analysis, interactive dashboard design
+
 ---
 
 ## Skills
