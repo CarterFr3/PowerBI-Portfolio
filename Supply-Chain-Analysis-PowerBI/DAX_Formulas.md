@@ -6,14 +6,14 @@ AVERAGE(Fact_Supplychain[Lead time]) & " Days"
 
 Used In: AVG Lead Time KPI card
 Why: Added the word "Days" for better readability on the card.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------------------------
 ### 2. Gross Profit
 Gross Profit = 
 SUM(Fact_Supplychain[Revenue generated]) - SUM(Fact_Supplychain[Costs])
 
 Used In: Gross Profit KPI card + “Revenue & Gross Profit by Product Type” bar chart
 Why: Needed a clear profit calculation to compare against revenue.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------------------------
 ### 3. Profit Margin %
 Profit Margin % = 
 DIVIDE(
